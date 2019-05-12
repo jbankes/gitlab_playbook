@@ -1,0 +1,8 @@
+# editor
+.vscode
+
+# vagrant
+.vagrant/
+
+#ansible
+*.retry
